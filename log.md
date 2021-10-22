@@ -17,3 +17,13 @@
 
 **Link(s) to work**
 [link](https://github.com/jwhan77/next-tailwind-test/commit/11b19dae05d5fe086d3991c6962e15aa708d7644)
+
+### Day 3: Oct 22, 2021
+
+**Today's Progress**: Added grid and tooltip
+
+**Thoughts**: Tried to figure out why all 100 tooltips showed up at the same time.
+
+**Link(s) to work**
+[grid](https://github.com/jwhan77/next-tailwind-test/commit/5b128b5777adfa63f71f54dc7759c213feb3a9d8)
+[tooltip](https://github.com/jwhan77/next-tailwind-test/commit/691631d1054fadae8c909700d7c21490f064dafd)
