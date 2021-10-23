@@ -27,3 +27,12 @@
 **Link(s) to work**
 [grid](https://github.com/jwhan77/next-tailwind-test/commit/5b128b5777adfa63f71f54dc7759c213feb3a9d8)
 [tooltip](https://github.com/jwhan77/next-tailwind-test/commit/691631d1054fadae8c909700d7c21490f064dafd)
+
+### Day 4: Oct 23, 2021
+
+**Today's Progress**: Show user's repositories, including private.
+
+**Thoughts**: `GET /user/repos` was supposed to list authenticated user's repositories including private but it didn't. I assumed it was because of using GitHub App client ID and Secret in provider. So I use OAuth App's and now it works.
+
+**Link(s) to work**
+[link](https://github.com/jwhan77/next-tailwind-test/commit/747a62397df3787de7ab7db5c7da04603b4c5e31)
