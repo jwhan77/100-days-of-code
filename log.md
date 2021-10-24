@@ -36,3 +36,12 @@
 
 **Link(s) to work**
 [link](https://github.com/jwhan77/next-tailwind-test/commit/747a62397df3787de7ab7db5c7da04603b4c5e31)
+
+### Day 5: Oct 24, 2021
+
+**Today's Progress**: Learned how to integrate MongoDB into the Next.js App.
+
+**Thoughts**: I'm still trying to figure out how to use MongoDB Adapter in the NextAuth provider since NextAuth v3 docs for that don't exist.
+
+**Link(s) to work**
+[link](https://github.com/jwhan77/next-mongodb-test)
