@@ -45,3 +45,12 @@
 
 **Link(s) to work**
 [link](https://github.com/jwhan77/next-mongodb-test)
+
+### Day 6: Oct 26, 2021
+
+**Today's Progress**: Add MongoDB adapter
+
+**Thoughts**: I added MongoDB adapter using TypeORM adapter. 
+
+**Link(s) to work**
+[link](https://github.com/jwhan77/next-tailwind-test/commit/65b29809d183411ea47bb899bbf1ecbd0d301305)
