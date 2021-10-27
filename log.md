@@ -11,7 +11,7 @@
 
 ### Day 2: Oct 21, 2021
 
-**Today's Progress**: Learnt how to use NextAuth GitHub provider access token into Octokit for using GitHub's REST APIs.
+**Today's Progress**: Learned how to use NextAuth GitHub provider access token into Octokit for using GitHub's REST APIs.
 
 **Thoughts**: I kept trying to use CSRF token for Octokit auth. And I realized Octokit require github access token. It happened because I didn't fully understand what CSRF token is.
 
@@ -51,6 +51,15 @@
 **Today's Progress**: Add MongoDB adapter
 
 **Thoughts**: I added MongoDB adapter using TypeORM adapter. 
+
+**Link(s) to work**
+[link](https://github.com/jwhan77/next-tailwind-test/commit/65b29809d183411ea47bb899bbf1ecbd0d301305)
+
+### Day 7: Oct 27, 2021
+
+**Today's Progress**: Fixed GitHub access token issue that happened after adding MongoDB adapter.
+
+**Thoughts**: JWT callback doesn't work after adding the database adapter. I fixed it by updating GitHub access token every time the user login. 
 
 **Link(s) to work**
 [link](https://github.com/jwhan77/next-tailwind-test/commit/65b29809d183411ea47bb899bbf1ecbd0d301305)
