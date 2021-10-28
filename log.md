@@ -62,4 +62,13 @@
 **Thoughts**: JWT callback doesn't work after adding the database adapter. I fixed it by updating GitHub access token every time the user login. 
 
 **Link(s) to work**
-[link](https://github.com/jwhan77/next-tailwind-test/commit/65b29809d183411ea47bb899bbf1ecbd0d301305)
+[link](https://github.com/jwhan77/next-tailwind-test/commit/0d00bf9372285df0839a7edef99af2a823101ce1)
+
+### Day 8: Oct 28, 2021
+
+**Today's Progress**: Changed Schema type
+
+**Thoughts**: Everytime I make changes, it gives me new errors. I think I need to change User model code.
+
+**Link(s) to work**
+[link](https://github.com/jwhan77/next-tailwind-test/commit/0d00bf9372285df0839a7edef99af2a823101ce1)
