@@ -71,4 +71,13 @@
 **Thoughts**: Everytime I make changes, it gives me new errors. I think I need to change User model code.
 
 **Link(s) to work**
-[link](https://github.com/jwhan77/next-tailwind-test/commit/0d00bf9372285df0839a7edef99af2a823101ce1)
+[link](https://github.com/jwhan77/next-tailwind-test/commit/aa22e3c015952efe2fdf9c3cbb72299ca0210416)
+
+### Day 9: Oct 29, 2021
+
+**Today's Progress**: I tried to fix User model issue, but no progress.
+
+**Thoughts**: With the NextAuth.js v3 TypeORM approach, I can't access to User model after connecting to db, which I can't use .find() functions, because mongoose.model("User", User) doesn't work. So I changed User.js like the other model with using mongoose.Schema. And now it has error in adapter in [...nextauth].js. It makes no sense. I expected Adapters.TypeORM.Models.User.schema returns Schema but it doesn't. I have no idea how to use .find() with User model omg.
+
+**Link(s) to work**
+no link
