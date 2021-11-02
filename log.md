@@ -99,3 +99,12 @@ no link
 
 **Link(s) to work**
 [link](https://github.com/jwhan77/next-tailwind-test/commit/5c21173f6fe1bb516d7d7e9d601cfa5fc731320d)
+
+### Day 12: Nov 2, 2021
+
+**Today's Progress**: Get commits from user repos
+
+**Thoughts**: There are more cases than I thought for automatic updating days function. I'm going to write a flowchart for this.
+
+**Link(s) to work**
+[link](https://github.com/jwhan77/next-tailwind-test/commit/b3a8168b06d62c7d5472ca2fcb3c8aabbd57ce60)
