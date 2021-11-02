@@ -90,3 +90,12 @@ no link
 
 **Link(s) to work**
 [link](https://github.com/jwhan77/next-tailwind-test/commit/07ba1d89c43d3414d35153451d9646d03628e611)
+
+### Day 11: Nov 1, 2021
+
+**Today's Progress**: Update user repos
+
+**Thoughts**: Solved issue that listing user's repositories with getServerSideProps by using dynamic API routes.
+
+**Link(s) to work**
+[link](https://github.com/jwhan77/next-tailwind-test/commit/5c21173f6fe1bb516d7d7e9d601cfa5fc731320d)
