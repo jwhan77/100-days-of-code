@@ -108,3 +108,14 @@ no link
 
 **Link(s) to work**
 [link](https://github.com/jwhan77/next-tailwind-test/commit/b3a8168b06d62c7d5472ca2fcb3c8aabbd57ce60)
+
+### Day 13: Nov 7, 2021
+
+**Today's Progress**: Implemented navbar, home page and user dropdown UI
+
+**Thoughts**: I got weird error after extending font family in tailwind.config.js. So I had to re-clone git repository and re-install packages.
+
+**Link(s) to work**
+[navbar](https://github.com/jwhan77/next-tailwind-test/commit/a8f59c413c820fd21d8f4afeaf39317dccd07014)
+[home page](https://github.com/jwhan77/next-tailwind-test/commit/e9b7079fe8fe5f5cd113766e19fa83bd536a2155)
+[user dropdown](https://github.com/jwhan77/next-tailwind-test/commit/c4426cca2f07e296d5c60dc8feeb6f5cc069f32a)
