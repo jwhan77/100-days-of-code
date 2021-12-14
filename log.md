@@ -119,3 +119,39 @@ no link
 [navbar](https://github.com/jwhan77/next-tailwind-test/commit/a8f59c413c820fd21d8f4afeaf39317dccd07014)
 [home page](https://github.com/jwhan77/next-tailwind-test/commit/e9b7079fe8fe5f5cd113766e19fa83bd536a2155)
 [user dropdown](https://github.com/jwhan77/next-tailwind-test/commit/c4426cca2f07e296d5c60dc8feeb6f5cc069f32a)
+
+### Day 14: Nov 8, 2021
+
+**Today's Progress**: Finished working on current project
+
+**Thoughts**: I realized I need to imporve front-end skills
+
+**Link(s) to work**
+[no link]()
+
+### Day 15: Dec 12, 2021
+
+**Today's Progress**: Build Modern Cryptopunk Clone with React.js & Web 3.0
+
+**Thoughts**: I used thirdweb for generating NFT and it was really easy to use for beginners!
+
+**Link(s) to work**
+[Demo]()
+
+### Day 16: Dec 13, 2021
+
+**Today's Progress**: Started building my own blog with Next.js + MDX + Tailwind CSS, Deployed it with Vercel
+
+**Thoughts**: I've wanted to build my own blog. I think it would be fun to use Next.js for building it.
+
+**Link(s) to work**
+[Demo](https://www.codingwithjade.com/)
+
+### Day 17: Dec 14, 2021
+
+**Today's Progress**: Updated navbar, posts page css, Added Korean fonts.
+
+**Thoughts**: Tailwind CSS 3 is amazing! I like the updated features. Nanum square round font looks good.
+
+**Link(s) to work**
+[Demo](https://www.codingwithjade.com/)
